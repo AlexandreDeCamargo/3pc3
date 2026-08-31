@@ -32,7 +32,7 @@ the student wants to consult, here are some recommended books:
 Notes from previous years written by Profs. Randy Dumont and Paul Ayers will also be shared.
 
 ## Midterm and Assignment Dates
-
+<!---
 - **Midterm** — 
   - Time: 
   - Room: 
@@ -41,3 +41,4 @@ Notes from previous years written by Profs. Randy Dumont and Paul Ayers will als
   - Info: 
 - **Assignment 2** — 
   - Info:
+-->
