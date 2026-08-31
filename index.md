@@ -33,11 +33,11 @@ Notes from previous years written by Profs. Randy Dumont and Paul Ayers will als
 
 ## Midterm and Assignment Dates
 
-- **Midterm** — Oct 30, in class. Bring your calculator.
-  - Time: 8:00 AM to 10:30 AM
-  - Room: ABB 165
+- **Midterm** — 
+  - Time: 
+  - Room: 
   - Resources: 
-- **Assignment 1** — due Oct 26th, 11:59 PM EST.
+- **Assignment 1** — 
   - Info: 
-- **Assignment 2** — due Dec 9th.
+- **Assignment 2** — 
   - Info:
