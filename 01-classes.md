@@ -1,3 +1,3 @@
 # Classes 📚
 
-Lecture materials and notes will be posted here.
+Lecture materials and notes are posted here.

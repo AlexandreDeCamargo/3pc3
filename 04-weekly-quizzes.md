@@ -1,3 +1,5 @@
 # Weekly Quizzes ✅
 
-Weekly quiz information will be posted here.
+Weekly quizzes are posted here.
+
+- [Quiz 1 — Fall 2026](quizzes/Quiz_1_Fall_2026.pdf)
