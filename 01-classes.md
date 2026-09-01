@@ -2,7 +2,6 @@
 
 Lecture materials and notes are posted here.
 
-<!--
 1. Introduction to the course: <br>
    [![Download PDF](https://img.shields.io/badge/Download_PDF-Click_Here-blue.svg)](https://github.com/ChemAI-Lab/3pc3/raw/main/lecture_notes/Notes/Lecture_1.pdf)
 
@@ -55,4 +54,4 @@ Lecture materials and notes are posted here.
    [![Download PDF](https://img.shields.io/badge/Download_PDF-Click_Here-blue.svg)](https://github.com/ChemAI-Lab/3pc3/raw/main/lecture_notes/Notes/Chemical_kinetics.pdf)<br>
    **Additional of References**
    1. Chapter 17, Physical Chemistry, Ira N. Levine.
--->
+
