@@ -26,9 +26,8 @@ site:
   title: CHEM 3PC3
   options:
     favicon: images/favicon.png
-    logo: images/math4chem.png  
-    logo_dark: images/math4chem.png  
-    logo_text: CHEM 3PC3
+    logo: images/math4chem.png
+    logo_dark: images/math4chem-dark.png
   parts:
     # An empty file removes the default "Made with MyST" sidebar footer
     primary_sidebar_footer: parts/primary_sidebar_footer.md
