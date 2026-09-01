@@ -13,6 +13,9 @@ project:
     - linear algebra
     - thermodynamics
     - Python
+  # Don't build the cloned notebooks as site pages
+  exclude:
+    - lecture_notes/**/*.ipynb
   toc:
     - file: index.md
     - file: 01-classes.md
@@ -21,6 +24,7 @@ project:
     - file: 04-weekly-quizzes.md
     - file: 05-assignment.md
     - file: 06-midterm-and-final.md
+    - file: 07-important-dates.md
 site:
   template: book-theme
   title: CHEM 3PC3
